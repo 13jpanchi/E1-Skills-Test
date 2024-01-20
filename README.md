@@ -12,10 +12,10 @@ Drawing Menories                      (axi draw brief)
   
 👩‍💻 
 
-Gossip Radio                      (invisible radio brief)
+Radio Chismose                      (invisible radio brief)
 - please open the folder RADIO_CODE in vs to load project
 - find attached a youtube link to watch how the radio fully functions
 - find also attached the 3 minute submission video
 - version demonstrating the radio in full: https://youtu.be/m2QcrDq__6k
-- version with voice over & context:
+- version with voice over & context: https://youtu.be/LUYPw4tait8
   📻 
