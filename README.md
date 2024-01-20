@@ -7,7 +7,8 @@ Drawing Menories                      (axi draw brief)
 - find attached a youtube link for 3minute submission video
   https://youtu.be/SRLqBKLc4IQ
 
-- non voice over ver.
+- non voice over ver
+- https://www.youtube.com/watch?v=rbifSxis2tU
   
 👩‍💻 
 
