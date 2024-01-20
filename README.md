@@ -2,8 +2,8 @@
 code for my p5 axi-draw project and invisible radio, 
 
 AXIDRAW
--please open the my_ex_code1 folder in vs code
--find attached a folder facebook_posts_data for the data source used in this project
+- please open the my_ex_code1 folder in vs code
+- find attached a folder facebook_posts_data for the data source used in this project
 - find attached a youtube link for 3minute submission video
 👩‍💻 
 
