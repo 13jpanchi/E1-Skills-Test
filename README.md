@@ -17,5 +17,5 @@ Radio Chismose                      (invisible radio brief)
 - find attached a youtube link to watch how the radio fully functions
 - find also attached the 3 minute submission video
 - version demonstrating the radio in full: https://youtu.be/m2QcrDq__6k
-- version with voice over & context: https://youtu.be/LUYPw4tait8
+- version with voice over & context: https://youtu.be/gXxlq89to0g
   📻 
